@@ -35,7 +35,7 @@ function preload(){
 
 function setup(){
 createCanvas(windowWidth,windowHeight)
-name = prompt("Enter your name here 😀");
+name = prompt(" Welcome to thought of the day generator. Enter your name here 😀");
 }
 
 function draw(){
